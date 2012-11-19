@@ -1,7 +1,7 @@
 
 # brewster-form
 
-  Really basic (incomplete) form based on the brewster iphone app.
+  Really basic (incomplete) form based on the [brewster](https://www.brewster.com/) iphone app.
 
   ![brewster-form](http://f.cl.ly/items/181D0X2t2h0E0J2X0z1X/Screen%20Shot%202012-11-19%20at%201.27.44%20PM.png)
 
